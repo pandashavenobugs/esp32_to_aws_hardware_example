@@ -1,3 +1,4 @@
+// lib/model/WifiCredentialModel.h
 // WifiCredentialModel class definition.
 
 #ifndef WIFICREDENTIALMODEL_H
